@@ -6,7 +6,7 @@ step1: 引入 js 文件
 <pre>
   <code>
   "
-    <script type="text/javascript" src="./path/to/timer.js"></script>
+    < script type="text/javascript" src="./path/to/timer.js"></script>
   "
   </code>
 </pre>
@@ -15,7 +15,7 @@ step2: 使用 Timer 倒计时功能
 <pre>
   <code>
   "
-    <script type="text/javascript">
+    < script type="text/javascript">
     
       // 定义一个变量，表示 30 秒的倒计时起始时间
       var timeout = 30;
