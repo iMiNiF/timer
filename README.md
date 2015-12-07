@@ -2,7 +2,7 @@
 The timer.js is a simple then useful JavaScript Timer...
 
 Usage:
-step1: 引入 js 文件（下载本项目的 timer.js 文件并将其添加到你的项目中）
+step1: 引入 js 文件（事先下载本目录 timer/ 下的 timer.js 文件并将其添加到你的项目中）
 <pre>
   <code>
     &lt;script type="text/javascript" src="path/to/timer.js">&lt;/script>
