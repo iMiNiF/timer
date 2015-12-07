@@ -5,7 +5,7 @@ Usage:
 step1: 引入 js 文件
 <pre>
   <code>
-    &lt;script type="text/javascript" src="./path/to/timer.js">&lt;/script>
+    &lt;script type="text/javascript" src="https://github.com/iMiNiF/timer/1.0.0/timer.js">&lt;/script>
   </code>
 </pre>
 
