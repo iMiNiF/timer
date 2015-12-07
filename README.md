@@ -20,7 +20,7 @@ step2: 使用 Timer 倒计时功能
       Timer.stop().run(timeout, function(){
         // 此函数封装倒计时期间要执行的代码, 如：
         // 事先加载 jQuery 库, 获取 DOM 的 id 为 test 的节点，显示它并向其中实时写入倒计时的剩余时间
-        $('#test span').fadeOut('normal').html(Timer.tm);
+        $('#test span').fadeIn('normal').html(Timer.tm);
       }, function() {
         // 此函数封装倒计时结束时要执行的代码, 如：
         // 倒计时结束，隐藏显示剩余时间的 DOM 节点
