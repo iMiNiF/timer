@@ -5,7 +5,7 @@ Usage:
 step1: 引入 js 文件（事先下载本目录 timer/ 下的 timer.js 文件并将其添加到你的项目中）
 <pre>
   <code>
-    &lt;script type="text/javascript" src="path/to/timer.js">&lt;/script>
+    &lt;script type="text/javascript" src="your_project_directory/path/to/timer.js">&lt;/script>
   </code>
 </pre>
 
