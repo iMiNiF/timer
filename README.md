@@ -5,7 +5,7 @@ Usage:
 step1: 引入 js 文件
 <pre>
   <code>
-    &lt;script type="text/javascript" src="./path/to/timer.js"></script>
+    &lt;script type="text/javascript" src="./path/to/timer.js">&lt;/script>
   </code>
 </pre>
 
@@ -26,7 +26,7 @@ step2: 使用 Timer 倒计时功能
         $('#test span').fadeOut('normal');
       });
     
-    </script>
+    &lt;/script>
   </code>
 </pre>
 
